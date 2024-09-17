@@ -19,7 +19,7 @@
 I'm always open to collaborating on exciting projects! Whether it's a web app, mobile app, or something entirely different, I'm eager to dive in and create something amazing together.
 
 ## 🎯 Side Projects & Interests:
-- 🚀 Working on side projects to sharpen my skills.
+- 🚀 Currently working on a website for my workplace internship "Node-Blog-Kesbangpol"
 - 💡 Brainstorming innovative ideas to solve real-world problems.
 
 ## 🛠️ Portfolio:
