@@ -15,18 +15,11 @@
 - ⚙️ **Node.js** - Developing scalable backend services.
 - 📱 **Android Development** - Exploring the world of mobile apps.
 
-## 🤝 Let's Collaborate!
-I'm always open to collaborating on exciting projects! Whether it's a web app, mobile app, or something entirely different, I'm eager to dive in and create something amazing together.
-
 ## 🎯 Side Projects & Interests:
 - 🚀 Currently working on a website for my workplace internship "Node-Blog-Kesbangpol"
 - 💡 Brainstorming innovative ideas to solve real-world problems.
 
-## 🛠️ Portfolio:
-🚧 **Portfolio in Progress** - Stay tuned for updates!
-
-## 📫 How to Reach Me:
-- 💬 Feel free to reach out for collaborations or just to say hi!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HakiruKamiZX&show_icons=true&theme=radical)
 
 <!---
 HakiruKamiZX/HakiruKamiZX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
