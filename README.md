@@ -20,7 +20,7 @@
 - 💡 Brainstorming innovative ideas to solve real-world problems.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HakiruKamiZX&theme=dark&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakiruKamiZX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakiruKamiZX&layout=compact&theme=radical)](https://github.com/HakiruKamiZX)
 
 <!---
 HakiruKamiZX/HakiruKamiZX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
