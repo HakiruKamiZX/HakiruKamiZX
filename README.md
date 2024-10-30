@@ -19,7 +19,8 @@
 - 🚀 Currently working on a website for my workplace internship "Node-Blog-Kesbangpol"
 - 💡 Brainstorming innovative ideas to solve real-world problems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HakiruKamiZX&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=HakiruKamiZX&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HakiruKamiZX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!---
 HakiruKamiZX/HakiruKamiZX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
