@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm @HakiruKamiZX
 
-🚀 **Passionate Fullstack Developer & UI/UX Designer**  
+🚀 **Passionate Fullstack Developer & Data Analyst**  
 🌐 Crafting beautiful and functional websites with a keen eye for design and user experience.  
 📱 Diving into the world of 3D website development using **Three.js**.
 
