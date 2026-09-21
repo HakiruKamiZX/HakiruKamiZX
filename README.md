@@ -7,8 +7,7 @@
 ### 👨‍💻 What I'm Currently Doing:
 - 🌟 **Website Development** - Creating dynamic and responsive websites.
 - 💼 **Fullstack Development** - Building robust backend systems with a seamless frontend experience.
-- 🎨 **UI/UX Design** - Designing intuitive interfaces that users love.
-- 📚 **Learning** - Currently enhancing my skills in **Express**, **Node.js**, and **Three.js**.
+- 🤖 **AI & Machine Learning** - Building small scale models for data predictions with high accuracy
   
 ### 🛠 Tech Stack
 <img align="left" alt="python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
